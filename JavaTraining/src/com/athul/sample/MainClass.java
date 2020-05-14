@@ -4,7 +4,7 @@
 package com.athul.sample;
 
 /**
- * @author Athul k
+ * @author Athul kannoth
  *
  */
 public class MainClass {
